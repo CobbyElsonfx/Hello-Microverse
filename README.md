@@ -46,10 +46,10 @@
 
 <details>
   <ul>
-    <li><a href="#">HTML</a></li>
+    <li><a href="./index.html">HTML</a></li>
   </ul>
   <ul>
-    <li><a href="#">CSS</a></li>
+    <li><a href="./style.css">CSS</a></li>
   </ul>
 </details>
 
